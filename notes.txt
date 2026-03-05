@@ -1,37 +1,32 @@
 A Simple QUBO Formulation of Sudoku
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_arxiv_primary_2403_04816
 https://arxiv.org/pdf/2403.04816
-
-Remove clues from the problem
-Sudoku uniqueness
-
+- Remove clues from the problem
+- Sudoku uniqueness
 
 Quantum Backtracking in Qrisp Applied to Sudoku Problems
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_arxiv_primary_2402_10060
 https://arxiv.org/pdf/2402.10060
-
-High level quantum programming language Qrisp seems intresting
-
+- High level quantum programming language Qrisp seems intresting
 
 A fast quantum mechanical algorithm for database search
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_arxiv_primary_quant_ph_9605043
 https://arxiv.org/pdf/quant-ph/9605043
-
-Grovers!
-
+- Grovers!
 
 A Quantum-Inspired Algorithm for Solving Sudoku Puzzles and the MaxCut Problem
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_arxiv_primary_2510_19835
-
+- math
 
 A Quantum Ising Model for Solving Sudoku Puzzles
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_springer_books_10_1007_978_3_032_08977_9_26
-
+- quantum annealing
 
 A Method for Application of a Quantum Search Algorithm to Classical Databases
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_arxiv_primary_2206_03938
+- good grovers overview
 
 Genuinely quantum SudoQ and its cardinality
 https://search.library.uvic.ca/permalink/01VIC_INST/1ohem39/cdi_arxiv_primary_2106_02967
-
-
+- quantum version of Sudoku
+- cells are a quantum states not numbers
